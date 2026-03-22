@@ -230,5 +230,5 @@ time           – Timestamps and elapsed time tracking
 
 ## 👤 Author
 
-**K P Mohammed Rinshad**
+**Mohammed Rinshad K P**
 GitHub: [@kpmohammedrinshad](https://github.com/kpmohammedrinshad)
